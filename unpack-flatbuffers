@@ -1,3 +1,5 @@
 #!/bin/sh
 
-tar -xvzf flatbuffers-1.10.0.tar.gz
+echo "-- Unpacking flatbuffers-1.10.0.tar.gz ..."
+tar -xzf flatbuffers-1.10.0.tar.gz
+echo "-- Done!"
